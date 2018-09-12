@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'w' => 'Walle 瓦力平台',
+    'w' => 'BARDS 蓝光代码安全&部署平台',
     'w platform' => '平台',
 
     'bool_0' => 'No',

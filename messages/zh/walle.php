@@ -9,7 +9,7 @@ return [
     'error todo' => '请联系SA或者重新部署',
     'error title' => '上线出错:（',
     'done' => '上线成功: )',
-    'done praise' => '辛苦了，小主：）',
+    'done praise' => '辛苦了，蓝光研发同学：）',
     'version' => '版本号：',
     'deploy' => '部署',
     'return' => '返回',

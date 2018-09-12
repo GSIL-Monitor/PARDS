@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'w' => 'Walle Platform',
+    'w' => 'BARDS Platform',
     'w platform' => 'Platform',
 
     'bool_0' => 'No',
